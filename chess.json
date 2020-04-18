@@ -62,13 +62,5 @@
       "white": ["Reti"],
       "black": ["French"]
     }
-  },
-  {
-    "name": "Zachary",
-    "age": "29",
-    "openings": {
-      "white": ["Spanish"],
-      "black": ["Caro-Kann"]
-    }
   }
 ]
